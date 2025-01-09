@@ -3,10 +3,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 <h2 align="left">About Me</h2>
 👩🏻Tenho 18 anos, me formei no ensino médio no Colégio Embraer e hoje curso Engenharia da Computação no Inteli;
+<div></div>
 👩🏻‍💻Sou formada na Escola Saga, tenho experiência com os aplicativos da Adobe e facilidade com animação 3D no Maia e Zbrush;
-
+<div></div>
 💻Sou apaixonada por tecnologia e por matemática.
-<h4 align="left">🎁Fato Curioso:</h4> Uma peculiaridade minha é que 
+<h4 align="left">🎁Fato Curioso:</h4> Uma peculiaridade minha é que eu gosto de muito de guardar coisas que me marcaram de alguma maneira, como objetos, cartas, pedaços de papel e etc. Desde criança eu faço cápsulas do tempo para mim mesma abrir com o intervalo de alguns anos. Também sou daquelas que revela todas as fotos do celular para guardar num álbum📸.
 
 
 
