@@ -110,10 +110,15 @@ Uma peculiaridade minha é que eu gosto de muito de guardar coisas que me marcar
 <a href = "mailto:nicolli.santana@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 
-<h2 align="left" id="macropower-tech">My Github Stats</h2>
-![NicolliVenino's Stats](https://github-readme-stats.vercel.app/api?username=NicolliVenino&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+<h2 align="left">My Github Stats</h2>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NicolliVenino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
 
 
 
