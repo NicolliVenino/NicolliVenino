@@ -12,7 +12,6 @@
 
 
 
-
 <h2 align="left" id="macropower-tech">Languages and Tools</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -33,7 +32,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60" />
       </a>
       <br>Arduino
     </td>
@@ -49,12 +48,27 @@
       </a>
       <br>Illustrator
     </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"" />
+      </a>
+      <br>VS Code
+    </td>
+          <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png"" />
+      </a>
+      <br>Canva
+    </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
       </a>
       <br>Unity
     </td>
+
+
+
 
 
 
