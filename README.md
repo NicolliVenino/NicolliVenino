@@ -75,15 +75,16 @@ Uma peculiaridade minha é que eu gosto de muito de guardar coisas que me marcar
       </a>
       <br>Photoshop
     </td>
+<table>
+
+<table>
+  <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://github.com/user-attachments/assets/1623fc95-b223-4c9d-90d5-79df95563c2d" width="60" height="60" />
       </a>
       <br>Audition
     </td>
-
-<table>
-  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/user-attachments/assets/a0c9cb1b-66f2-412b-8592-1cd69800544e" width="80" height="70"/>
@@ -102,7 +103,7 @@ Uma peculiaridade minha é que eu gosto de muito de guardar coisas que me marcar
       </a>
       <br>Maia
     </td>
-  <table>
+<table>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp; <a href="https://instagram.com/nick_venino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nicolli-venino-santana-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
