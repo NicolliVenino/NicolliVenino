@@ -72,6 +72,12 @@
       </a>
       <br>Photoshop
     </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://github.com/user-attachments/assets/1623fc95-b223-4c9d-90d5-79df95563c2d" width="60" height="60" />
+      </a>
+      <br>Audition
+    </td>
 
 
 
