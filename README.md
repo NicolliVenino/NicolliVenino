@@ -5,7 +5,7 @@
 👩🏻Sou do Brasil e tenho 18 anos;
 <div></div>
 🎓Formei no ensino médio pelo Colégio Embraer e hoje curso Engenharia da Computação no Inteli; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
-<div></div>
+<div><div></div>
 👩🏻‍💻Sou apaixonada por tecnologia e por matemática. Estou sempre aprendendo!
 <div><div>
 👾Sou formada na Escola Saga e tenho experiência com os aplicativos da Adobe.
