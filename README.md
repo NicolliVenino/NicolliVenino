@@ -66,6 +66,12 @@
       </a>
       <br>Unity
     </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://github.com/user-attachments/assets/951d663c-9056-4134-b311-d19d56f8b86a" width="90" height="80" />
+      </a>
+      <br>Photoshop
+    </td>
 
 
 
