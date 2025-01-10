@@ -111,7 +111,7 @@ Uma peculiaridade minha é que eu gosto de muito de guardar coisas que me marcar
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 
 <h2 align="left" id="macropower-tech">My Github Stats</h2>
-
+![NicolliVenino's Stats](https://github-readme-stats.vercel.app/api?username=NicolliVenino&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 
 
