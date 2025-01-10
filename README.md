@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolli Venino</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Nicolli+Venino!+👩🏻‍💻" alt="Typing SVG" /></a></h1>
 <h3 align="center">Computer Engineering student at Inteli</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 <h2 align="left">About Me</h2> 
@@ -110,6 +110,10 @@ Uma peculiaridade minha é que eu gosto de muito de guardar coisas que me marcar
 <a href = "mailto:nicolli.santana@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 
-![snake gif](https://github.com/NicolliVenino/NicolliVenino/blob/output/github-contribution-grid-snake.svg)
+<h2 align="left" id="macropower-tech">My Github Stats</h2>
+
+
+
+
 
 
