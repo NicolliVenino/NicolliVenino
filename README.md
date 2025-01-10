@@ -115,7 +115,7 @@ Uma peculiaridade minha é que eu gosto muito de guardar coisas que me marcaram 
 
 ###
 
-<p align="right"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" align="right" width="400" height="400">  <img src="https://github-readme-stats.vercel.app/api?username=NicolliVenino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" align="left" height="178" alt="stats graph"  /> 
+<p align="right"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" align="right" width="350" height="350">  <img src="https://github-readme-stats.vercel.app/api?username=NicolliVenino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" align="left" height="178" alt="stats graph"  /> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolliVenino&radius=16&theme=synthwave-84&area=true&order=5" align="left" height="150" alt="activity-graph graph"  />
 </div>
 
