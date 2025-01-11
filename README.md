@@ -11,7 +11,7 @@
 👾Sou formada na Escola Saga e tenho experiência com os aplicativos da Adobe.
 <details>
 <summary>🎁Uma Peculiaridade Pessoal Minha:</summary>
-Gosto muito de guardar coisas que me marcaram de alguma maneira, como objetos, cartas, pedaços de papel e etc. Desde criança eu faço cápsulas do tempo para mim mesma abrir com o intervalo de alguns anos. Também sou daquelas que revela todas as fotos do celular para guardar num álbum📸. </details> <h4>⭐Minha Buddy: A <a href="https://github.com/milenacastrro">Milena Casttro</a> será minha buddy no Inteli! Sou muito grata pela sua ajuda e estou muito animada para esse ano! 
+Sou encantada por todo tipo de arte e gosto muito de guardar coisas que me marcaram de alguma maneira, como objetos, cartas, pedaços de papel e etc. Desde criança eu faço cápsulas do tempo para mim mesma abrir com o intervalo de alguns anos. Também sou daquelas que revela todas as fotos do celular para guardar num álbum📸. </details> <h4>⭐Minha Buddy: A <a href="https://github.com/milenacastrro">Milena Casttro</a> será minha buddy no Inteli! Sou muito grata pela sua ajuda e estou muito animada para esse ano! 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="40">&nbsp;
 
 
