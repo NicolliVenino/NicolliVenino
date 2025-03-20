@@ -2,20 +2,14 @@
 <h3 align="center">Computer Engineering student at Inteli</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 <h2 align="left">About Me</h2> 
-👩🏻Sou do Brasil e tenho 18 anos;
+👩🏻‍💻Tenho 18 anos e sou brasileira.
 <div></div>
 🎓Formei no ensino médio pelo Colégio Embraer e hoje curso Engenharia da Computação no Inteli; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
 <div><div></div>
-👩🏻‍💻Sou apaixonada por tecnologia e por matemática. Estou sempre aprendendo!
+🖥️ Sou apaixonada por tecnologia e estou sempre aprendendo!
 <div><div>
 👾Sou formada na Escola Saga e tenho experiência com os aplicativos da Adobe.
-<details>
-<summary>🎁Uma Peculiaridade Pessoal Minha:</summary>
-Sou encantada por todo tipo de arte e gosto muito de guardar coisas que me marcaram de alguma maneira, como objetos, cartas, pedaços de papel e etc. Desde criança eu faço cápsulas do tempo para mim mesma abrir com o intervalo de alguns anos. Também sou daquelas que revela todas as fotos do celular para guardar num álbum📸. </details> <h4>⭐Minha Buddy: A <a href="https://github.com/milenacastrro">Milena Casttro</a> será minha buddy no Inteli! Sou muito grata pela sua ajuda e estou muito animada para esse ano! 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="40">&nbsp;
-
-
-
+  
 <h2 align="left" id="macropower-tech">Languages and Tools</h2>
 
 > Tools, languages, and other things that I like to work with.
