@@ -1,17 +1,18 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Nicolli+Venino!+👩🏻‍💻" alt="Typing SVG" /></a></h1>
-<h3 align="center">Computer Engineering student at Inteli</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hello%2C+World!" alt="Typing SVG" /></a></h1>
+<h3 align="center">Estudante de Engenharia da Computação no Inteli</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
-<h2 align="left">Sobre mim</h2> 
-👩🏻‍💻Tenho 18 anos;
-<div></div>
-🎓Sou formada no ensino médio pelo <strong>Colégio Embraer</strong> e hoje curso <strong>Engenharia da Computação no Inteli</strong>; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
+🎓 Formada no ensino médio pelo <strong>Colégio Embraer</strong> e cursando <strong>Engenharia da Computação no Inteli</strong>; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
 <div><div></div>
-👾Sou formada na <strong>Escola Saga</strong> e tenho experiência com softwares da <strong>Adobe</strong>.
+🎯 Bolsista da <strong>Fundação Behring</strong>; 
 <div><div></div>
-🖥️ Sou apaixonada por <strong>tecnologia</strong> e estou sempre aprendendo!
+🤖 Membra do time de <strong>elétrica</strong> do <strong>clube de robótica da POLI - USP</strong> (Thunderatz);
+<div><div></div>
+🦾 Mebra da liga de <strong>Engenharia Biomédica</strong> do Inteli (Med-In);
+<div><div></div>
+👾 Formada na <strong>Escola Saga</strong> e experiente com softwares da <strong>Adobe</strong>.
 <div><div>
   
-<h2 align="left" id="macropower-tech">Languages and Tools</h2>
+<h2 align="left" id="macropower-tech">Linguagens e Ferramentas</h2>
 
 > Ferramentas e linguagens que tenho experiência:
 
@@ -107,7 +108,7 @@
 <a href = "mailto:nicolli.santana@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
 
-<h2 align="left">My Github Stats</h2>
+<h2 align="left">Minhas Estatísticas no Github</h2>
 
 ###
 
