@@ -1,18 +1,19 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Nicolli+Venino!+👩🏻‍💻" alt="Typing SVG" /></a></h1>
 <h3 align="center">Computer Engineering student at Inteli</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
-<h2 align="left">About Me</h2> 
-👩🏻‍💻Tenho 18 anos e sou brasileira.
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
+<h2 align="left">Sobre mim</h2> 
+👩🏻‍💻Tenho 18 anos;
 <div></div>
-🎓Formei no ensino médio pelo Colégio Embraer e hoje curso Engenharia da Computação no Inteli; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
+🎓Sou formada no ensino médio pelo <strong>Colégio Embraer</strong> e hoje curso <strong>Engenharia da Computação no Inteli</strong>; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
 <div><div></div>
-🖥️ Sou apaixonada por tecnologia e estou sempre aprendendo!
+👾Sou formada na <strong>Escola Saga</strong> e tenho experiência com softwares da <strong>Adobe</strong>.
+<div><div></div>
+🖥️ Sou apaixonada por <strong>tecnologia</strong> e estou sempre aprendendo!
 <div><div>
-👾Sou formada na Escola Saga e tenho experiência com os aplicativos da Adobe.
   
 <h2 align="left" id="macropower-tech">Languages and Tools</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Ferramentas e linguagens que tenho experiência:
 
 <table>
   <tr>
@@ -99,12 +100,12 @@
       <br>Maia
     </td> 
 <table>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">&nbsp; 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
+  <h3>Meus contatos:</h3>
 <a  href="https://instagram.com/nick_venino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nicolli-venino-santana-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:nicolli.santana@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
 
 <h2 align="left">My Github Stats</h2>
 
