@@ -1,13 +1,11 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hello%2C+World!" alt="Typing SVG" /></a></h1>
-<h3 align="center">Estudante de Engenharia da Computação no Inteli</h3>
+<h3 align="center">Estudante de Engenharia da Computação no Inteli - Instituo de Tecnologia e Liderança</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
-🎓 Formada no ensino médio pelo <strong>Colégio Embraer</strong> e cursando <strong>Engenharia da Computação no Inteli</strong>; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
+🎓 <strong>Engenharia da Computação no Inteli</strong>; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
 <div><div></div>
-🎯 Bolsista da <strong>Fundação Behring</strong>; 
+🤖 Membra da área de <strong>Elétrica</strong> da Thunderatz - <strong>Time de Robótica da POLI - USP</strong>;
 <div><div></div>
-🤖 Membra do time de <strong>elétrica</strong> do <strong>clube de robótica da POLI - USP</strong> (Thunderatz);
-<div><div></div>
-🦾 Mebra da liga de <strong>Engenharia Biomédica</strong> do Inteli (Med-In);
+🦾 <strong>Presidente do Med-In - Liga de Engenharia Biomédica do Inteli</strong>;
 <div><div></div>
 👾 Formada na <strong>Escola Saga</strong> e experiente com softwares da <strong>Adobe</strong>.
 <div><div>
@@ -20,21 +18,45 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
       </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-      </a>
-      <br>Python
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60" />
       </a>
       <br>Arduino
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+      </a>
+      <br>Python
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+      </a>
+      <br>SQL
+    </td>
+            <td align="center" width="96">
+      <a href="#macropower-tech">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      </a>
+      <br>PostgreSQL
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+      </a>
+      <br>.NET
+    </td>
+          <td align="center" width="96">
+      <a href="#macropower-tech">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+      </a>
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -47,24 +69,6 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="70" height="70"/>
       </a>
       <br>Illustrator
-    </td>
-        <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png"" />
-      </a>
-      <br>VS Code
-    </td>
-          <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png"" />
-      </a>
-      <br>Canva
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="70" height="70" />
-      </a>
-      <br>Unity
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
@@ -99,6 +103,30 @@
         <img src="https://github.com/user-attachments/assets/d64bc973-87af-4eca-a5da-fe3c58f20276" />
       </a>
       <br>Maia
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+      </a>
+      <br>Notion
+    </td> 
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+      </a>
+      <br>Trello
+    </td> 
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+      </a>
+      <br>Figma
+    </td> 
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      </a>
+      <br>Git
     </td> 
 <table>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
@@ -108,20 +136,10 @@
 <a href = "mailto:nicolli.santana@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
 
-<h2 align="left">Minhas Estatísticas no Github</h2>
+<p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" align="center" width="350" height="350">
 
-###
-
-<p align="right"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" align="right" width="350" height="350">  <img src="https://github-readme-stats.vercel.app/api?username=NicolliVenino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" align="left" height="178" alt="stats graph"  /> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolliVenino&radius=16&theme=github-dark&area=true&order=5" align="left" height="150" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="right">
-</div>
-
-###
+<p align="center">Curiosidade: no tempo livre, gosto de me aventurar no desenvolvimento de jogos! - você pode verificar em alguns dos meus repositórios :)</p>
+  
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000"> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="5">
 
