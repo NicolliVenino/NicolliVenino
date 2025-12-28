@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&weight=500&size=30&color=FFFFFF&center=true&width=435&lines=Hello%2C+World!" alt="Typing SVG" /></a></h1>
-<h3 align="center">Estudante de Engenharia da Computação no Inteli - Instituo de Tecnologia e Liderança</h3>
+<h3 align="center">Estudante de Engenharia da Computação no Inteli - Instituto de Tecnologia e Liderança</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
 🎓 <strong>Engenharia da Computação no Inteli</strong>; <img src="https://github.com/user-attachments/assets/c877b543-17e1-4f17-addb-2b5d4e9ec4d6" align="right" width="90" height="90"
 <div><div></div>
