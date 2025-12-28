@@ -132,8 +132,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
   <h3>Meus contatos:</h3>
 <a  href="https://instagram.com/nick_venino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nicolli-venino-santana-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:nicolli.santana@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/nicolli-venino-santana-b84341254/?profileId=ACoAAD6ytVQBs-ty8ZAgmi109bndQDtC1NSRu2o" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="1">
 
 <p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" align="center" width="350" height="350">
